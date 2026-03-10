@@ -37,4 +37,6 @@ I enjoy building tech that solves real-world problems.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Sheth3433
-- LinkedIn: (Add your LinkedIn profile)
+- LinkedIn: https://www.linkedin.com/in/aarjav-sheth-b4b343308
+- Instagram: https://www.instagram.com/aarjav_05
+- Leetcode: https://leetcode.com/u/Aarjav_Sheth
