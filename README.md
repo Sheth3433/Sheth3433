@@ -1,10 +1,40 @@
-- 👋 Hi, I’m Aarjav Sheth
-- 🌱 I’m currently learning C++,JAVA.
-- ✨ I'm currently working in web development 
-- 📫 How to reach me aarjavsheth93@gmail.com 
+# Hi there 👋 I'm Aarjav Sheth
 
+💻 Computer Science & Engineering student interested in building real-world tech solutions.
 
-<!---
-Sheth3433/Sheth3433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔭 Current Projects
+- SharePlate – Food Redistribution Platform (Waste Less, Feed More)
+- Spotify to YouTube Playlist Automation
+
+## 🌱 Currently Learning
+- ReactJS
+- AI Automations & Agents
+- AWS Cloud Services
+- Data Structures & Algorithms
+
+## 👯 Looking to Collaborate On
+- Open Source Web Development Projects
+- AI Automation Tools
+
+## 🤝 Looking for Help With
+- Backend Scalability
+- Cloud Deployment
+
+## 💬 Ask Me About
+- Web Development
+- GitHub Projects
+- Automation Workflows
+
+## ⚡ Fun Fact
+I enjoy building tech that solves real-world problems.
+
+## 🛠 Tech Stack
+- Languages: JavaScript, Python, PHP, Java
+- Frontend: HTML, CSS, ReactJS
+- Backend: Node.js, PHP
+- Database: MySQL
+- Tools: Git, GitHub
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Sheth3433
+- LinkedIn: (Add your LinkedIn profile)
